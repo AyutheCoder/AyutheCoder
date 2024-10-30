@@ -1,5 +1,5 @@
 [![An image of @ayuthecoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayuthecoder)](https://holopin.io/@ayuthecoder)
-# Hello, I'm [Your Name]!
+# Hello, I'm AYUSHI SHUKLA!
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
